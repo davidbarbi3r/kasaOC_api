@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hosts",
+  "info": {
+    "singularName": "host",
+    "pluralName": "hosts",
+    "displayName": "host"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}

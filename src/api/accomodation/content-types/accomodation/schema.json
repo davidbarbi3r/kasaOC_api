@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "accomodations",
+  "info": {
+    "singularName": "accomodation",
+    "pluralName": "accomodations",
+    "displayName": "Accomodation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}
